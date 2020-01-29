@@ -1,0 +1,28 @@
+{
+  "name": "sign-in-up-form",
+  "version": "1.0.0",
+  "description": "Sign in/up Form - npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandrolepri/Sign-in-up-Form.git"
+  },
+  "keywords": [
+    "alexlepri",
+    "login",
+    "sign-in",
+    "sign-up",
+    "npm",
+    "package",
+    "git"
+  ],
+  "author": "Alessandro Lepri <alex.lepri84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alessandrolepri/Sign-in-up-Form/issues"
+  },
+  "homepage": "https://github.com/alessandrolepri/Sign-in-up-Form#readme"
+}
